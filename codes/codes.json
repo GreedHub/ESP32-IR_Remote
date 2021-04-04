@@ -1,0 +1,15 @@
+
+{
+    "LG TV":{
+        "power":{"type":"NEC","code":"20DF10EF","bytes":32,"address":50387},
+        "volume_down":{"type":"NEC","code":"20DFC03F","bytes":32,"address":50387},
+        "volume_up":{"type":"NEC","code":"20DF40BF","bytes":32,"address":50387},
+        "home":{"type":"NEC","code":"20DF3EC1","bytes":32,"address":50387},
+        "channel_up":{"type":"NEC","code":"20DF00FF","bytes":32,"address":50387},
+        "channel_down":{"type":"NEC","code":"20DF807F","bytes":32,"address":50387},
+        "mute":{"type":"NEC","code":"20DF906F","bytes":32,"address":50387}
+
+    }
+}
+
+
